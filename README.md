@@ -3,7 +3,7 @@ Hi, I'm squareroot12621. I came here to have a place for my [esolangs](https://e
 ### Golfing
 * CodeGolf+ *(WIP)*
 ### Esoteric
-* Messenger ([wiki](https://esolangs.org/wiki/Messenger))
+* Messenger ([wiki](https://esolangs.org/wiki/Messenger), [repository](https://github.com/squareroot12621/messenger-language))
 
 <!---
 squareroot12621/squareroot12621 is a special repository because its `README.md` (this file) appears on your GitHub profile.
