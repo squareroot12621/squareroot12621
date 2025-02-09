@@ -5,4 +5,4 @@ Hi, I'm squareroot12621. I came here to have a place for my [esolangs](https://e
 ### Esoteric
 * Messenger ([wiki](https://esolangs.org/wiki/Messenger), [repository](https://github.com/squareroot12621/messenger-language))
 * Too Many Variables! ([wiki](https://esolangs.org/wiki/Too_Many_Variables!), [repository](https://github.com/squareroot12621/toomanyvariables/))
-* Foldy ([repository](https://github.com/squareroot12621/foldy-language))
+* Foldy ([wiki](https://esolangs.org/wiki/Foldy), [repository](https://github.com/squareroot12621/foldy-language))
