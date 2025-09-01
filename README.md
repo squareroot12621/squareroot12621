@@ -7,7 +7,7 @@ because they'll probably never be.
 [esolangs]: https://en.wikipedia.org/wiki/Esoteric_programming_language
 
 ## Current Projects
-* JS Animator         (<!--                 -->[repository](js-animator))
+* Conway's Story Mode (<!--                 -->[repository](conways-story-mode))
 
 ## My Esolangs
 * Messenger           ([wiki][messenger-wiki], [repository][messenger-repo])
