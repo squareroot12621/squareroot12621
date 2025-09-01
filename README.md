@@ -7,13 +7,14 @@ because they'll probably never be.
 [esolangs]: https://en.wikipedia.org/wiki/Esoteric_programming_language
 
 ## Current Projects
-* Conway's Story Mode (<!--                 -->[repository](conways-story-mode))
+* Conway's Story Mode (<!--                 -->[repository][csm-repo])
 
 ## My Esolangs
 * Messenger           ([wiki][messenger-wiki], [repository][messenger-repo])
 * Too Many Variables! ([wiki][tmv-wiki],       [repository][tmv-repo])
 * Foldy               ([wiki][foldy-wiki],     [repository][foldy-repo])
 
+[csm-repo]: https://github.com/squareroot12621/conways-story-mode
 [messenger-wiki]: https://esolangs.org/wiki/Messenger
 [messenger-repo]: https://github.com/squareroot12621/messenger-language
 [tmv-wiki]: https://esolangs.org/wiki/Too_Many_Variables!
